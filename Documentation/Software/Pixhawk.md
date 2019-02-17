@@ -6,7 +6,7 @@ Instructions for flashing default firmware can be found [here][1].
 ArduSub supports custom motor layouts called frames. In order to do this:
 1. Add the frame to AP_Motors6DOF.cpp
    1. This can be found in `Ardupilot/libraries\AP_Motors\AP_Motors6DOF.cpp`
-   2. Search for SUB_FRAME_CUSTOM and your motor there following [this template][2]
+   2. Search for SUB_FRAME_CUSTOM and add your motor there following [this template][2]
    3. Uncomment the break statement after the added commands
 2. Compile the firmware and upload it to the Pixhawk
 3. Use QGroundControl to set the FRAME_CONFIG parameter to `custom`
