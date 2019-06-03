@@ -1,5 +1,5 @@
 # Running the code
-1. Make sure that the address the node is connecting to is correct correct address for where Mosquitto will be running
+1. Make sure that the address the node is connecting to is the correct address for where Mosquitto will be running
 in the `vizier_node.Node()` call.
    * Found [here][1] on the Raspberry Pi
    * Found [here][2] on the Topside Computer for the guiController
