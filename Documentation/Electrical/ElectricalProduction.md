@@ -1,5 +1,6 @@
 # Overview
 ![Made in Orcad Capture][1]
+High Quality PDF [here](https://github.com/chachmu/SwimmingSwarm/blob/master/Documentation/Images/Swimming%20Swarm%20Final%20Electrical%20Schematic.pdf)
 ![Raspberry Pi Pinout][2]
 
 # Plate Layout
